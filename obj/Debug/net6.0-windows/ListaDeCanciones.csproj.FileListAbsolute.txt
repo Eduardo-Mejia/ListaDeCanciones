@@ -1,0 +1,17 @@
+C:\Users\luis_\source\repos\ListaDeCanciones\bin\Debug\net6.0-windows\ListaDeCanciones.exe
+C:\Users\luis_\source\repos\ListaDeCanciones\bin\Debug\net6.0-windows\ListaDeCanciones.deps.json
+C:\Users\luis_\source\repos\ListaDeCanciones\bin\Debug\net6.0-windows\ListaDeCanciones.runtimeconfig.json
+C:\Users\luis_\source\repos\ListaDeCanciones\bin\Debug\net6.0-windows\ListaDeCanciones.dll
+C:\Users\luis_\source\repos\ListaDeCanciones\bin\Debug\net6.0-windows\ListaDeCanciones.pdb
+C:\Users\luis_\source\repos\ListaDeCanciones\obj\Debug\net6.0-windows\ListaDeCanciones.csproj.AssemblyReference.cache
+C:\Users\luis_\source\repos\ListaDeCanciones\obj\Debug\net6.0-windows\ListaDeCanciones.Form1.resources
+C:\Users\luis_\source\repos\ListaDeCanciones\obj\Debug\net6.0-windows\ListaDeCanciones.csproj.GenerateResource.cache
+C:\Users\luis_\source\repos\ListaDeCanciones\obj\Debug\net6.0-windows\ListaDeCanciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis_\source\repos\ListaDeCanciones\obj\Debug\net6.0-windows\ListaDeCanciones.AssemblyInfoInputs.cache
+C:\Users\luis_\source\repos\ListaDeCanciones\obj\Debug\net6.0-windows\ListaDeCanciones.AssemblyInfo.cs
+C:\Users\luis_\source\repos\ListaDeCanciones\obj\Debug\net6.0-windows\ListaDeCanciones.csproj.CoreCompileInputs.cache
+C:\Users\luis_\source\repos\ListaDeCanciones\obj\Debug\net6.0-windows\ListaDeCanciones.dll
+C:\Users\luis_\source\repos\ListaDeCanciones\obj\Debug\net6.0-windows\refint\ListaDeCanciones.dll
+C:\Users\luis_\source\repos\ListaDeCanciones\obj\Debug\net6.0-windows\ListaDeCanciones.pdb
+C:\Users\luis_\source\repos\ListaDeCanciones\obj\Debug\net6.0-windows\ListaDeCanciones.genruntimeconfig.cache
+C:\Users\luis_\source\repos\ListaDeCanciones\obj\Debug\net6.0-windows\ref\ListaDeCanciones.dll
